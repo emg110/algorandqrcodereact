@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emg110/algorand-qrcode-reactprecache-manifest.19a7da7935963ee11d8d97c937c32473.js"
+  "/emg110/algorand-qrcode-reactprecache-manifest.1d97595edcafd64301ceda4ff3e9a568.js"
 );
 
 self.addEventListener('message', (event) => {
