@@ -5,7 +5,10 @@
 [![npm](https://img.shields.io/static/v1?label=license&message=MIT&color=green&style=flat-square)](https://github.com/emg110/algorand-qrcode-react/blob/master/license)
 
 For ReactJS demos please visit [GitHub Page](https://emg110.github.io/algorandqrcodereact/)
+### This is a WORK IN PROGRESS
+This Demo is under heavy development these days to transfer all locally developed components to GitHub one by one. This will hopefully finish in 24 hours!
 
 This is just a ReactJS APP presenting `algorand-qrcode-react` library capabilities & examples which uses Algorand QR Code [Algorand QR Code](https://github.com/emg110/algorand-qrcode/) . For code, issues and documentations please visit [GitHub Repository](https://github.com/emg110/algorand-qrcode-react)
 
 Algorand QR Code React, is A comprehensive ReactJS component pack with a complete set of react components to get Devs and non-Devs up and running with usage of QR Code in Algorand ecosystem.
+
