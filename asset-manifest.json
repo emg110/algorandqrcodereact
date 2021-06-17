@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/algorandqrcodereact/static/css/main.f156885b.chunk.css",
-    "main.js": "/algorandqrcodereact/static/js/main.2ccef2ef.chunk.js",
-    "main.js.map": "/algorandqrcodereact/static/js/main.2ccef2ef.chunk.js.map",
+    "main.js": "/algorandqrcodereact/static/js/main.a646c9ec.chunk.js",
+    "main.js.map": "/algorandqrcodereact/static/js/main.a646c9ec.chunk.js.map",
     "runtime-main.js": "/algorandqrcodereact/static/js/runtime-main.b93f7f64.js",
     "runtime-main.js.map": "/algorandqrcodereact/static/js/runtime-main.b93f7f64.js.map",
     "static/css/2.fe7d74ce.chunk.css": "/algorandqrcodereact/static/css/2.fe7d74ce.chunk.css",
-    "static/js/2.c9626b9d.chunk.js": "/algorandqrcodereact/static/js/2.c9626b9d.chunk.js",
-    "static/js/2.c9626b9d.chunk.js.map": "/algorandqrcodereact/static/js/2.c9626b9d.chunk.js.map",
+    "static/js/2.64213b3f.chunk.js": "/algorandqrcodereact/static/js/2.64213b3f.chunk.js",
+    "static/js/2.64213b3f.chunk.js.map": "/algorandqrcodereact/static/js/2.64213b3f.chunk.js.map",
     "index.html": "/algorandqrcodereact/index.html",
-    "precache-manifest.2602a7353f840596bcf1a47e7fc49e6b.js": "/algorandqrcodereact/precache-manifest.2602a7353f840596bcf1a47e7fc49e6b.js",
+    "precache-manifest.748e5b50ab42e3e5eb8ec2bb5afb411a.js": "/algorandqrcodereact/precache-manifest.748e5b50ab42e3e5eb8ec2bb5afb411a.js",
     "service-worker.js": "/algorandqrcodereact/service-worker.js",
     "static/css/2.fe7d74ce.chunk.css.map": "/algorandqrcodereact/static/css/2.fe7d74ce.chunk.css.map",
     "static/css/main.f156885b.chunk.css.map": "/algorandqrcodereact/static/css/main.f156885b.chunk.css.map",
-    "static/js/2.c9626b9d.chunk.js.LICENSE.txt": "/algorandqrcodereact/static/js/2.c9626b9d.chunk.js.LICENSE.txt",
+    "static/js/2.64213b3f.chunk.js.LICENSE.txt": "/algorandqrcodereact/static/js/2.64213b3f.chunk.js.LICENSE.txt",
     "static/media/Rand-Labs-color.png": "/algorandqrcodereact/static/media/Rand-Labs-color.7c807e9e.png",
     "static/media/algorand-qrcode-banner.jpg": "/algorandqrcodereact/static/media/algorand-qrcode-banner.5d72f5ee.jpg",
     "static/media/algorand_full_logo_black.svg": "/algorandqrcodereact/static/media/algorand_full_logo_black.50bbe1d1.svg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.b93f7f64.js",
     "static/css/2.fe7d74ce.chunk.css",
-    "static/js/2.c9626b9d.chunk.js",
+    "static/js/2.64213b3f.chunk.js",
     "static/css/main.f156885b.chunk.css",
-    "static/js/main.2ccef2ef.chunk.js"
+    "static/js/main.a646c9ec.chunk.js"
   ]
 }
